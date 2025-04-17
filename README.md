@@ -1,6 +1,10 @@
 # Python-project_New-York-Airbnb-Data-Analysis
 Analyzing Airbnb data to explore pricing trends, availability, and neighborhood insights across New York City.
 
+![New York AirBnb Logo](![![image](https://github.com/user-attachments/assets/498137ae-4ccd-4b9f-9735-47417fa76f24)
+)
+
+
 # Objective
 The goal of this project is to explore and analyze Airbnb listings data in New York City. The focus is on understanding pricing patterns, availability trends, neighborhood preferences, and identifying factors that influence listing prices. The project walks through:
 
