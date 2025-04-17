@@ -15,43 +15,43 @@ The goal of this project is to explore and analyze Airbnb listings data in New Y
 # Key Insights
 1: Price Distribution:
 
-     Prices are heavily skewed to the right with many listings priced below $500, but a few outliers go above $1000.
+  Prices are heavily skewed to the right with many listings priced below $500, but a few outliers go above $1000.
    
-     Outliers were removed for better visualization and analysis.
+  Outliers were removed for better visualization and analysis.
    
 2: Neighborhood Group Analysis:
 
-      Manhattan has the highest average price among all boroughs.
+  Manhattan has the highest average price among all boroughs.
    
-      Brooklyn offers more affordable options but with slightly less availability.
+  Brooklyn offers more affordable options but with slightly less availability.
    
 3: Room Type Trends:
 
-      Entire homes/apartments are the most expensive and most commonly listed.
+  Entire homes/apartments are the most expensive and most commonly listed.
    
-      Private rooms are more budget-friendly and widely available.
+  Private rooms are more budget-friendly and widely available.
    
 4: Availability vs Price:
 
-      Listings with high availability do not necessarily have higher prices.
+  Listings with high availability do not necessarily have higher prices.
    
-      Some highly available listings are still affordable, suggesting price is influenced by more than just availability.
+  Some highly available listings are still affordable, suggesting price is influenced by more than just availability.
    
 5: Review and Pricing Relationship:
 
-      Listings with more reviews tend to have moderate pricing.
+   Listings with more reviews tend to have moderate pricing.
    
-      Very expensive listings often have fewer reviews.
+   Very expensive listings often have fewer reviews.
    
 6: Feature Engineering:
 
-      A new feature price per bed was created to normalize price comparisons across listings.
+   A new feature price per bed was created to normalize price comparisons across listings.
    
 7: Correlation Heatmap:
-
-      Price shows weak correlation with most numeric features, suggesting other factors (like location, room type) play a more significant role.
+  
+   Price shows weak correlation with most numeric features, suggesting other factors (like location, room type) play a more significant role.
    
-      number_of_reviews and reviews_per_month are moderately correlated.
+   number_of_reviews and reviews_per_month are moderately correlated.
 
 # Conclusion
 
