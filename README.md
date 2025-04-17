@@ -2,6 +2,7 @@
 Analyzing Airbnb data to explore pricing trends, availability, and neighborhood insights across New York City.
 
 ![New York AirBnb Logo](![![image](https://github.com/user-attachments/assets/498137ae-4ccd-4b9f-9735-47417fa76f24)
+
 )
 
 
